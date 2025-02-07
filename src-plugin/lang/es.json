@@ -1,0 +1,69 @@
+{
+    "k4.general.prefix": "{silver}[ {lime}K4-Arenas {silver}]",
+  
+    "k4.general.arena": "ARENA",
+    "k4.general.afk": "AFK",
+    "k4.general.waiting": "EN ESPERA",
+    "k4.general.no_opponent": "Sin oponente",
+    "k4.general.warmup": "CALENTAMIENTO",
+    "k4.general.challenge": "DESAFÍO",
+    "k4.general.random": "Al azar",
+  
+    "k4.general.challenge.tie": "{silver}El desafío entre {lime}{0}{silver} y {lime}{1}{silver} terminó en empate.",
+    "k4.general.challenge.winner": "{lime}{0}{silver} ganó el desafío contra {lime}{1}{silver}.",
+    "k4.general.challenge.waiting": "{silver}Esperando a que {lime}{0}{silver} responda al desafío.",
+    "k4.general.challenge.request": "{silver}Has sido desafiado por {lime}{0}{silver}. Usa {lime}!{1} {silver}para aceptar o {lime}!{2} {silver}para rechazar.",
+    "k4.general.challenge.accepted": "{silver}Has aceptado el desafío de {lime}{0}{silver}.",
+    "k4.general.challenge.acceptedby": "{lime}{0} {silver}ha aceptado tu desafío.",
+    "k4.general.challenge.declined": "{silver}Has rechazado el desafío de {lime}{0}{silver}.",
+    "k4.general.challenge.declinedby": "{lime}{0} {silver}ha rechazado tu desafío.",
+    "k4.general.challenge.invalidtarget": "{lightred}Objetivo inválido. Solo puedes desafiar jugadores por su nombre.",
+    "k4.general.challenge.notavailable": "{lightred}El jugador ya no está disponible.",
+    "k4.general.challenge.inchallenge": "{lightred}Solo se puede crear un desafío si ninguno de los dos jugadores está ya en un desafío.",
+    "k4.general.challenge.notinarena": "{lightred}Solo se puede crear un desafío si ambos jugadores están en la arena.",
+    "k4.general.challenge.notchallenged": "{lightred}No tienes desafíos pendientes o han expirado.",
+  
+    "k4.general.commandclientonly": "{lightred}Este comando solo puede ser ejecutado desde un cliente.",
+    "k4.general.commandhelp": "{silver}Forma de uso: {lime}!{0} {1}",
+    "k4.general.commandnoperm": "{lightred}No tienes permisos para usar este comando.",
+    "k4.general.commandserveronly": "{lightred}Este comando solo puede ser ejecutado desde el servidor.",
+  
+    "k4.chat.queue_added": "{silver}Estas ahora en fila de espera. Tu posición es {lime}{0}{silver}.",
+    "k4.chat.queue_not_in_queue": "{silver}No estás en fila de espera.",
+    "k4.chat.queue_position": "{silver}Estás en la posición {lime}{0}{silver} en la cola de espera.",
+  
+    "k4.chat.round_preferences_added": "{silver}Has agregado {lime}{0}{silver} a tus preferencias de ronda.",
+    "k4.chat.round_preferences_removed": "{silver}Has eliminado {lime}{0}{silver} de tus preferencias de ronda.",
+    "k4.chat.round_preferences_atleastone": "{lightred}No puedes deshabilitar todas las rondas. al menos una debe estar habilitada.",
+    "k4.chat.arena_roundstart": "{silver}Estás en la arena {lime}{0}{silver} contra {lime}{1}{silver} y jugando una ronda de {lime}{2}{silver}.",
+    "k4.chat.arena_roundstart_html": "<div class=\"fontSize-l\" style=\"text-align: center; padding: 10px;\"><font color=\"#C0C0C0\">Arena</font><br><font color=\"#FFA500\" class=\"fontSize-xl\">{0}</font><br><font color=\"#C0C0C0\">Tipo de ronda</font><br><font color=\"#FFA500\" class=\"fontSize-xl\">{1}</font><br><font color=\"#C0C0C0\" class=\"fontSize-m\">{2}</font></div>",
+    "k4.chat.arena_commands": "{silver}Puedes cambiar tus preferencias con {lime}!{0}{silver} y {lime}!{1}{silver}.",
+    "k4.chat.arena_afk": "{silver}Puedes entrar en modo AFK con {lime}!{0}{silver}.",
+  
+    "k4.chat.afk_reminder": "{lightred}Sigues en modo AFK. Usa {gold}!{0} {lightred}de nuevo para deshabilitarlo.",
+    "k4.chat.afk_enabled": "{silver}Ahora estás en modo AFK. Usa {gold}!{0} {silver}para deshabilitarlo.",
+    "k4.chat.afk_disabled": "{silver}Ya no estás en modo AFK. ",
+  
+    "k4.menu.roundpref.title": "{lightred}Preferencias de Ronda en Arena",
+    "k4.menu.roundpref.item_enabled": "{0} {lime}Habilitada",
+    "k4.menu.roundpref.item_disabled": "{0} {red}Deshabilitada",
+  
+    "k4.menu.weaponpref.title": "{lightred}Preferencias de Arma en Arena",
+    "k4.menu.weaponpref.item_enabled": "{gold}{0} {lime}(Seleccionada)",
+    "k4.menu.weaponpref.item_disabled": "{gold}{0}",
+    "k4.chat.weapon_preferences_added": "{silver}Has agregado {lime}{0}{silver} a tus preferencias de arma.",
+  
+    "k4.rounds.rifle": "Rifle",
+    "k4.rounds.pistol": "Pistola",
+    "k4.rounds.scout": "Scout",
+    "k4.rounds.sniper": "Francotirador",
+    "k4.rounds.shotgun": "Escopeta",
+    "k4.rounds.smg": "Subfusil",
+    "k4.rounds.lmg": "Ametralladora",
+    "k4.rounds.awp": "AWP",
+    "k4.rounds.deagle": "Deagle",
+    "k4.rounds.knife": "Cuchillo",
+    "k4.rounds.2vs2": "2vs2",
+    "k4.rounds.3vs3": "3vs3"
+  }
+  
